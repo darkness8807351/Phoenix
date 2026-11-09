@@ -23,7 +23,7 @@ Utilizzando Phoenix, gli utenti e gli amministratori dei server prendono atto ch
 
 ---
 
-## 1. DATI CHE POTREBBERO ESSERE RACCOLTI
+## DATI CHE POTREBBERO ESSERE RACCOLTI
 
 Phoenix può elaborare informazioni limitate relative agli utenti e ai server Discord nei quali viene utilizzato.
 
@@ -45,7 +45,7 @@ A seconda delle funzionalità utilizzate, queste informazioni possono comprender
 
 Phoenix non richiede né raccoglie intenzionalmente password, credenziali private di Discord, informazioni di pagamento o altri dati personali esterni alla piattaforma Discord.
 
-## 2. CONTENUTO DEI MESSAGGI E ALLEGATI
+## CONTENUTO DEI MESSAGGI E ALLEGATI
 
 Phoenix può accedere al contenuto dei messaggi pubblicati nei canali testuali dei server Discord nei quali è installato, nei limiti dei permessi concessi e delle funzionalità utilizzate.
 
