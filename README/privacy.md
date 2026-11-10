@@ -59,4 +59,4 @@ Il contenuto dei messaggi può essere elaborato per:
 - Funzionalità di gestione dello staff.
 - Logging generale del server.
 
-Phoenix non è progettato per leggere i messaggi privati (DM) degli utenti e non dispone di funzionalità dest
+Phoenix non è progettato per leggere i messaggi privati (DM).
